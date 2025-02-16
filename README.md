@@ -1,6 +1,6 @@
 # 💻 SolidWorks Projects Portfolio
 
-## (English)
+### (English)
 
 Welcome to my **SolidWorks Projects Portfolio**! 
 
@@ -40,9 +40,10 @@ For any questions or to discuss my projects, feel free to reach out to me at the
 
 <br>
 <br>
+<br>
+<br>
 
-
-## (Français)
+### (Français)
 
 Bienvenue dans mon **portfolio de projets SolidWorks** ! 
 
