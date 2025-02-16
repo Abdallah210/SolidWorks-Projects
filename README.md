@@ -36,7 +36,7 @@ All files are available for download for study or modification:
 ### 🎯 Contact
 For any questions or to discuss my projects, feel free to reach out to me at the following email:  
 📧 **elfilali210@hotmail.com**  
-🔗 **LinkedIn**: ![LinkedIn](https://www.linkedin.com/in/abdallah-el-filali-a788591ba/)
+🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/abdallah-el-filali-a788591ba/)
 
 <br>
 <br>
@@ -84,4 +84,4 @@ Tous les fichiers sont disponibles en téléchargement pour étude ou modificati
 ### 🎯 Contact
 Pour toute question ou pour discuter de mes projets, n’hésite pas à me contacter à l’adresse suivante :  
 📧 **elfilali210@hotmail.com**  
-🔗 **LinkedIn** : ![LinkedIn](https://www.linkedin.com/in/abdallah-el-filali-a788591ba/)
+🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/abdallah-el-filali-a788591ba/)
